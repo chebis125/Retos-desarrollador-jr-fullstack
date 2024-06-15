@@ -1,3 +1,5 @@
+Explicacion del desarrollo de los retos
+
 1. Se crea una lista que es ingresada por consola de 0 hasta 100, luego la funcion "eliminar_invertir" itera sobre 
 cada numero de la lista, se verifica si el numero es mayor o igual a S = 7 si es asi, se elimina ese numero, 
 luego se invirte la lista en la misma función, se retorna la lista modificada y es utilizada en la funcion imprimir.
